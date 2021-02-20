@@ -15,3 +15,6 @@ JSON
 Splash Screen | Home
 ------------ | -------------
 <img src="https://github.com/harunayyildiz/numerical_lotto/blob/master/assets/screenshot/splash.png" alt="Splash" width="220" height="391"> | <img src="https://github.com/harunayyildiz/numerical_lotto/blob/master/assets/screenshot/homePage.png" alt="Home" width="220" height="391">
+
+# Record
+<img src="https://github.com/harunayyildiz/numerical_lotto/blob/master/assets/record/record.gif" alt="Splash" width="220" height="391">
