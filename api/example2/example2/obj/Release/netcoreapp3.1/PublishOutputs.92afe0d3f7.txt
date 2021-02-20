@@ -1,0 +1,6 @@
+/Users/mzb/Desktop/appsettings.Development.json
+/Users/mzb/Desktop/appsettings.json
+/Users/mzb/Desktop/example2.dll
+/Users/mzb/Desktop/example2.deps.json
+/Users/mzb/Desktop/example2.runtimeconfig.json
+/Users/mzb/Desktop/example2.pdb
